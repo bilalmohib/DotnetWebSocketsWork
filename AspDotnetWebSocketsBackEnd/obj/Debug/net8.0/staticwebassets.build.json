@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aA66o+KDT1B5e+cVV9hghuqubRQc/HTxrQSi+csB2dk=",
+  "Source": "AspDotnetWebSockets",
+  "BasePath": "_content/AspDotnetWebSockets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
